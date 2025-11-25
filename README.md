@@ -60,3 +60,9 @@ A lightweight, stealthy Python keylogger that captures keystrokes and uploads th
 ## License
 
 This project is open source. Use responsibly.
+
+## Thanks to
+
+Artist 
+follow him -> https://www.linkedin.com/in/ahsan-rasheed-artist/
+
