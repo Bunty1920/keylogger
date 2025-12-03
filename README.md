@@ -44,11 +44,12 @@ A lightweight, stealthy Python keylogger that captures keystrokes and uploads th
 
 ### Server Side (The Listener)
 
-1. Upload `commands.php` to your web server (e.g., `public_html/api/`).
-2. **Configure `commands.php`:**
+1. If you have no web server, Then you can buy a cheap web server via link (https://client.tezhost.com/aff.php?aff=1710)
+2. Upload `commands.php` to your web server (e.g., `public_html/api/`).
+3. **Configure `commands.php`:**
     - Open `commands.php`.
     - Set `$PASSWORD` to match the one in `keylogger.py`.
-3. Ensure the directory has write permissions so the script can create `keylogs.txt`.
+4. Ensure the directory has write permissions so the script can create `keylogs.txt`.
 
 ## Usage
 
@@ -65,4 +66,5 @@ This project is open source. Use responsibly.
 
 Artist 
 follow him -> https://www.linkedin.com/in/ahsan-rasheed-artist/
+
 
